@@ -1,2 +1,2 @@
-# recipies
+# cookbook
 Food, not code
