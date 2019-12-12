@@ -1,8 +1,11 @@
 # Snickerdoodle
 
 https://www.bonappetit.com/recipe/best-snickerdoodles
+
 Preheat: 400 F
+
 Prep: 
+
 Bake: 
 
 ## Ingredients
