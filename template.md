@@ -1,7 +1,4 @@
-# Title
-
-<!--Link-->
-www.example.com
+# [Title](www.example.com)
 
 Preheat: 
 
