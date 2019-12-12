@@ -28,5 +28,7 @@ Bake:
 
 ## Notes
 Makes about 32
+
 For snickerdoodle purists, follow the instructions to the letter and beat after adding eggs for the full 3 minutes, which will give you beautiful cracks on the cookie’s surface as well as a cakey texture. For a chewier version, beat after adding eggs for just 30 seconds. This is part of BA's Best, a collection of our essential recipes.
+
 Do Ahead: Cookie dough can be made 3 days ahead; cover and chill. Let dough come to room temperature before portioning and coating in cinnamon-sugar.
