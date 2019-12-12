@@ -1,4 +1,7 @@
-# [Snickerdoodles](https://www.bonappetit.com/recipe/best-snickerdoodles)
+# Snickerdoodles
+
+<!--Link-->
+https://www.bonappetit.com/recipe/best-snickerdoodles
 
 Preheat: 400 F
 
