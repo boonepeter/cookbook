@@ -5,9 +5,9 @@ https://www.bonappetit.com/recipe/best-snickerdoodles
 
 Preheat: 400 F
 
-Prep: 
+Prep: 10 min
 
-Bake: 
+Bake: 8-10 min
 
 ## Ingredients
 - 2½ cups all-purpose flour
