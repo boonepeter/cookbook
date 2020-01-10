@@ -1,7 +1,7 @@
 ---
 layout: page
 title: breakfast
-permalink: /breakfast/
+permalink: cookbook/breakfast/
 header: true
 
 ---
