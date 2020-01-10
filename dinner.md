@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: cookbook/dinner/
+permalink: /cookbook/dinner/
 header: true
 
 ---
