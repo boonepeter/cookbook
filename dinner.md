@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dinner
-permalink: /dinner/
+permalink: https://boonepeter.github.io/cookbook/dinner/
 header: true
 
 ---
